@@ -1,0 +1,21 @@
+{
+  "type": "application",
+  "name": "Lilypond",
+  "category": "multimedia",
+  "server": "server.js",
+  "icon": "icon.png",
+  "singleton": true,
+  "title": {
+    "en_EN": "Lilypond Editor"
+  },
+  "description": {
+    "en_EN": "Lilypond Editor"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ],
+  "mimes": [
+    "text\/x-lilypond"
+  ]
+}
